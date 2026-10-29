@@ -4621,6 +4621,25 @@
     }
   },
   {
+    "name": "WriteStack MCP Server",
+    "url": "https://www.writestack.io/mcp",
+    "description": "Official hosted server for drafting and scheduling Substack Notes, managing articles, and reading writing statistics in a WriteStack account.",
+    "category": "communication-and-productivity",
+    "language": "TypeScript",
+    "provider": "WriteStack",
+    "tags": [
+      "substack",
+      "writing",
+      "newsletter",
+      "social-media",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://www.writestack.io/api/mcp/mcp"
+    }
+  },
+  {
     "name": "Hail",
     "url": "https://hail.so/mcp",
     "description": "Give your AI assistant a phone number and an email inbox to handle calls, texts, and email.",
